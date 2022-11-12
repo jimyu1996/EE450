@@ -1,5 +1,3 @@
-a. Name: Zihao Yu
-b. Student ID: 1865088713
 c. What I done: check balance, transfer coins, TXLIST, stats (I did optional part)
 d. Files description:
 
